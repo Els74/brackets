@@ -1,0 +1,11 @@
+<!DOCTYPE htlm>
+<htlm>
+    <head>
+        <! mettre le titre "page 2">
+    </head>
+    <body>
+        <! titre de niveau 1 "Sciences Numériques et Technologie" >
+        <! titre de niveau 2 "Page 2" >
+        <! insérer un lien hypertexte vers page1.htlm avec une puce>
+    </body>
+</htlm>
