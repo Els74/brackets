@@ -1,0 +1,12 @@
+<!DOCTYPE htlm>
+<htlm>
+    <head>
+        <! mettre le titre "page 1">
+    </head>
+    <body>
+        <! titre de niveau 1 "Sciences Numériques et technologique" >
+        <! titre de niveau 2 "Page 1" >
+        <! insérer un lien hypertexte vers https://www.meteofrance.com >
+        <! insérer un lien hypertexte vers page2.htlm >
+    </body>
+<htlm>
